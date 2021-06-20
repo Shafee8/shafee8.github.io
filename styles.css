@@ -98,7 +98,7 @@ p {
 
 /* Header Section */
 .header {
-    background-image: url("../Images/flowers.jpg");
+    background-image: url("flowers.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: 50% 50%;
@@ -265,7 +265,7 @@ p {
 
 /* Testimonials Section */
 .testimonial {
-    background-image: url("../Images/background.jpeg");
+    background-image: url("background.jpeg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -434,7 +434,7 @@ p {
 
 /* Counters Section */
 .counters {
-    background-image: url('../Images/counter-bg.jpg');
+    background-image: url('counter-bg.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
